@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/Text"
             android:text="megha123@gmai.com"
-            android:textSize="28dp"
+            android:textSize="30dp"
             android:layout_below="@id/Text1"
             android:layout_marginTop="5dp"
             android:layout_marginLeft="20dp"
@@ -43,13 +43,12 @@
             android:src="@drawable/movie"
             android:layout_marginTop="10dp"
             android:layout_alignParentRight="true"
-            android:layout_marginRight="30dp"
-            android:forceHasOverlappingRendering="true"/>
+            android:layout_marginRight="30dp" />
 
 
         <ImageView
-            android:layout_width="52dp"
-            android:layout_height="52dp"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
             android:id="@+id/image2"
             android:layout_below="@+id/Text"
             android:src="@drawable/school"
@@ -81,8 +80,8 @@
             android:textSize="27dp"/>
 
         <ImageView
-            android:layout_width="52dp"
-            android:layout_height="52dp"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
             android:id="@+id/image3"
             android:layout_below="@+id/image2"
             android:src="@drawable/person2"
@@ -115,8 +114,8 @@
             android:textSize="28dp"/>
 
         <ImageView
-            android:layout_width="52dp"
-            android:layout_height="52dp"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
             android:id="@+id/image4"
             android:layout_below="@+id/image3"
             android:src="@drawable/contact_emergency"
@@ -128,7 +127,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/text6"
             android:text="Emergency Contact"
-            android:textSize="26dp"
+            android:textSize="27dp"
             android:layout_below="@+id/Text5"
             android:layout_marginTop="28dp"
             android:layout_marginLeft="90dp"
@@ -149,8 +148,8 @@
             android:textSize="28dp"/>
 
         <ImageView
-            android:layout_width="52dp"
-            android:layout_height="52dp"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
             android:id="@+id/image5"
             android:layout_below="@+id/image4"
             android:src="@drawable/phone"
